@@ -25,4 +25,4 @@ I'm a Python and Web Developer with additional experience in Game Development, a
 
 ### 💻 Online Projects:
 
-<div><a href="https://roboticgames.itch.io/fractured-forest"><img src="https://img.itch.zone/aW1nLzEwNTM0MTA1LmpwZw==/315x250%23c/zOBbq0.jpg" alt="Fractured Forest, Game made with unity" title="Fractured Forest" style="max-width: 100%;"></a><br><a href="https://roboticgames.itch.io/fractured-forest">Fractured Forest (DEMO)</a><br><a> A Horror Adventure game.</a><br><a href="https://roboticgames.itch.io">RoboticGames</a><br><a>Adventure</a></div>
+<div><a href="https://roboticgames.itch.io/fractured-forest" rel="nofollow"><img src="https://img.itch.zone/aW1nLzEwNTM0MTA1LmpwZw==/315x250%23c/zOBbq0.jpg" alt="Fractured Forest, Game made with unity" title="Fractured Forest" style="max-width: 100%;"></a><br><a href="https://roboticgames.itch.io/fractured-forest">Fractured Forest (DEMO)</a><br><a> A Horror Adventure game.</a><br><a href="https://roboticgames.itch.io">RoboticGames</a><br><a>Adventure</a></div>
