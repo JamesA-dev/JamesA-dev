@@ -1,4 +1,4 @@
-# 📜 James A.
+# James A.
 
 **`Python & Web Developer`**
 
